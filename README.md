@@ -9,3 +9,10 @@ Data used in this script are freely available on SEANOE:
 Planque Yann, Vincent Cécile, Guillou Gaël, Lebreton Benoit, Caurant Florence (2020). δ13C and δ15N stable isotope compositions of the whisker of 8 harbour seals (Phoca vitulina) and 10 grey seals (Halichoerus grypus) captured in the baie de Somme, France, in 2008 and 2012, for telemetry tracking. SEANOE. https://doi.org/10.17882/76528
 
 Before running the script, please download the file repository in the ZIP file and place it on your desktop. Place the data previously dowloaded in the subfile "Input".
+
+First publication on GitHub : 2020-11-05
+Last update : 2021-02-08 (Version 1.2)
+
+Script as part of: 
+Planque et al. "Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at their Southern European limit range (Eastern English Channel)". Submitted in 'Ecology and Behaviour' journal.
+>> Preprint version: https://doi.org/10.22541/au.160508195.50224560/v1
