@@ -25,8 +25,11 @@ Last update : 2021-04-12 (Version 1.3)
 
 ## Authors : Yann Planque(1), Matthieu Authier(2)(3)
  Affiliations : 
+ 
     (1) Centre d'Etudes Biologiques de Chizé (CEBC, UMR 7372 CNRS - La Rochelle Université), La Rochelle, France
+    
     (2) Observatoire PELAGIS (UMS 3462 CNRS - La Rochelle Université), La Rochelle, France
+    
     (3) ADERA, Pessac, France
 
 ## Contact : yann.planque@univ-lr.fr ; yann.planque@hotmail.fr
