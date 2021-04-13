@@ -6,7 +6,7 @@
 ##
 ## As part of : 
 ##    Planque et al. "Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus)
-##     at their Southern European limit range (Eastern English Channel)". Submitted in Ecology & Behaviour journal
+##     at their Southern European limit range (Eastern English Channel)". Submitted in Ecology and Evolution journal
 ##        >> Preprint version (1st version submitted in 2020-11): https://doi.org/10.22541/au.160508195.50224560/v1
 ##        >> Peer review status (2021-03-31): minor revisions
 ##
