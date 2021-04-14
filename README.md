@@ -1,7 +1,8 @@
 # Isotopic Niche Overlap : considering both intra- and interindividual variability in the identification of isotopic niches with standard ellipses
 • **OBJECTIVES** : 
-<br>1) Identify isotopic niches at species level with isotopic data including both intra- and interindividual variability (e.g. of study cases: serveral isotopic values measured along seal whiskers, bird feathers, tooth growth layers).</br>
-<br>2) Measure <ins>isotopic niche overlap</ins> between species.</br>
+<br>1) **Identify isotopic niches at species level** with isotopic data including both **intra- and interindividual variability**</br>
+<br>(e.g. of study cases: serveral isotopic values measured along seal whiskers, bird feathers, tooth growth layers).</br>
+<br>2) Measure **isotopic niche overlap** between species.</br>
 
 • **METHOD** : estimate **isotopic standard ellipses** with a **novel hierarchical model developed in a Bayesian framework** to consider **two levels of isotopic variability**: an **intra-individual level** (characterised by several isotopic measurements for each individual, e.g. along a whisker) and an **interindividual** one. Our model therefore expanded on standard model with one level of isotopic variability (an interindividual one; *cf*. [Jackson et al., 2011](https://doi.org/10.1111/j.1365-2656.2011.01806.x)).
 
