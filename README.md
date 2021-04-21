@@ -25,7 +25,7 @@ First publication on GitHub : 2020-11-05
 
 Last update : 2021-04-12 (Version 1.3)
 
-## Authors : Yann Planque<sup>(1)</sup>, Matthieu Authier<sup>2)(3)</sup>
+## Authors : Yann Planque<sup>(1)</sup>, Matthieu Authier<sup>(2)(3)</sup>
  Affiliations : 
  
     (1) Centre d'Etudes Biologiques de Chizé (CEBC, UMR 7372 CNRS - La Rochelle Université), La Rochelle, France
