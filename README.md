@@ -10,11 +10,7 @@
 • **CASE STUDY** : isotopic niche overlap was quantified here using δ<sup>13</sup>C and δ<sup>15</sup>N isotopic values from the whiskers of 8 harbour and 10 grey seals. 
 
 ## Script developped as part of: 
-Planque, Y., Spitz, J., Authier, M., Guillou, G., Vincent, C., Caurant, F. Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at the Southern limit of their European range (Eastern English Channel). Submitted in 'Ecology and Evolution'.
-
-Preprint version (1st version submitted in 2020-11): https://doi.org/10.22541/au.160508195.50224560/v1
-
-Peer review status (2021-03-31): minor revisions
+Planque Y, Spitz J, Authier M, Guillou G, Vincent C, Caurant F. Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at the southern limit of their European range (Eastern English Channel). Ecol Evol. 2021;00:1– 22. https://doi.org/10.1002/ece3.7739
 
 ## Data used in this script are freely available on SEANOE:
 Planque Yann, Vincent Cécile, Guillou Gaël, Lebreton Benoit, Caurant Florence (2020). δ13C and δ15N stable isotope compositions of the whisker of 8 harbour seals (Phoca vitulina) and 10 grey seals (Halichoerus grypus) captured in the baie de Somme, France, in 2008 and 2012, for telemetry tracking. SEANOE. https://doi.org/10.17882/76528
